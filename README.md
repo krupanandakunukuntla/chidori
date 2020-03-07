@@ -1,0 +1,2 @@
+# chidori
+Emotional analysis
